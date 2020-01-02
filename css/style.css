@@ -1,0 +1,205 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+section{
+	padding: 0px;
+}
+
+.body{
+	font-family: 'Open Sans', sans-serif;
+}
+.nav-head{
+	background-color: white!important;
+	padding: 25px;
+	
+}
+.nav-link{
+	color: #989898!important;
+}
+.nav-link.js-scroll-trigger.active{
+	color:green!important;
+	font-weight: bold;
+	
+}
+.hero{
+	background: url(../img/banner.png) center top;
+	background-size: cover;
+	    padding: 124px 0px;
+}
+.hero-content h2{
+  text-align: center;
+    color: white;
+    margin-top: 107px;
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+.hero-content p {
+	text-align: center;
+    color: white;
+    font-size: 29px;
+    margin: 16px 0px;
+}
+.hero-content button {
+       background: #99c50a;
+    margin: 40px auto;
+    display: block;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    color: white;	
+}
+
+.presentation{
+    text-align: center;
+    padding: 80px 0px;
+}
+.presentation p{
+	
+}
+.presentation img {
+	
+}
+.presentation h1{
+	text-transform: uppercase;
+    margin: 25px 0px;
+    font-size: 35px;
+}
+.presentation h6{
+	    margin: 30px 0px 20px 0px;
+}
+
+.part-left{
+    background: #e2f8ff;
+}
+
+.part-right{
+	background-color: #f5f9eb;
+}
+.chair{
+    text-align: right;
+    margin: 50px auto;
+}
+.chair img{
+
+}
+.chair-content{
+    margin: 25px 0px;
+}
+.chair-content h4{
+    font-size: 22px;
+}
+.chair-content p{
+    margin: 18px 0px;
+    font-size: 15px;
+}
+.chair-content button{
+    background: #26a6cf;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+}
+.no-padding{
+	padding: 0px;
+}
+
+.envelop{
+    text-align: center;
+    margin: 65px auto;
+}
+.envelop img {
+	
+}
+.envelop-content{
+   margin: 18px 0px;
+    font-size: 15px;
+}
+.envelop-content h4{
+    font-size: 22px;
+    margin-top: 8px;
+}
+.envelop-content p {
+    margin: 18px 0px;
+    font-size: 15px;
+}
+.envelop-content button {
+    background: #add136;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+}
+.feature{
+         padding: 30px 0px;
+}
+.feature h3{
+
+}
+.feature p {
+   font-size: 17px;
+}
+.btn-feature button {
+ border: 1px solid gray;
+    background: white;
+    padding: 12px 22px;
+    border-radius: 5px;
+    margin: 58px 0px;
+    font-weight: bold;
+}
+.project{
+	    margin: 0 auto;
+}
+.project img{
+	
+}
+.project h3{
+	font-size: 20px;
+    margin: 15px 0px 5px 15px;
+}
+.tower {
+	    margin: 0px 15px;
+    font-size: 15px;
+}
+.project h4{
+	    text-align: center;
+    font-size: 18px;
+}
+.funded {
+     margin: 30px 0px 0px 15px;
+    display: inline;
+}
+.fund{
+    margin-top: 35px;
+}
+
+.day {
+  display: inline;
+    margin-left: 116px;
+}
+span{
+    border-bottom: 1px solid gray;
+    display: block;
+    width: 80%;
+    margin: 15px auto;
+}
+.fa.fa-caret-right{
+    color: green;
+    margin: 8px 10px 47px 5px;
+}
+
+.foot img{
+
+    padding: 31px 0px;
+}
+
+.foot-one{
+    text-align: center;
+    background: beige;
+    padding: 15px;
+}
+.foot-one p{
+	    margin: 0 auto;
+}
+
